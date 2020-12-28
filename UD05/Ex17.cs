@@ -29,7 +29,7 @@ namespace UD05
             int i;
             for (i = 0; i < 10; i++)
             {
-                Console.WriteLine(array[i]);
+                Console.WriteLine("El valor del indice " + (i + 1) + " es " + array[i]);
             }
         }
     }

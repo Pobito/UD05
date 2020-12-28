@@ -22,8 +22,11 @@ namespace UD05
             // Ex14.ArrayRandomValor();
             // Ex15.InvertirArray();
             // Ex16.Capicua();
-            Ex17.DiezArrayTeclado();
-
+            // Ex17.DiezArrayTeclado();
+            // Ex18.ArrayRandomSuma();
+            // Ex19.ArrayRandomMayor();
+            // Ex20.DosArrays();
+            Ex21.ArrayTerminados();
         }
        
     }
