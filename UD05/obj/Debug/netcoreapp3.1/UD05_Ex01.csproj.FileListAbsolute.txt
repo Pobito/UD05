@@ -1,0 +1,13 @@
+C:\Users\adria\source\repos\UD05\UD05_Ex01\UD05_Ex01\bin\Debug\netcoreapp3.1\UD05_Ex01.exe
+C:\Users\adria\source\repos\UD05\UD05_Ex01\UD05_Ex01\bin\Debug\netcoreapp3.1\UD05_Ex01.deps.json
+C:\Users\adria\source\repos\UD05\UD05_Ex01\UD05_Ex01\bin\Debug\netcoreapp3.1\UD05_Ex01.runtimeconfig.json
+C:\Users\adria\source\repos\UD05\UD05_Ex01\UD05_Ex01\bin\Debug\netcoreapp3.1\UD05_Ex01.runtimeconfig.dev.json
+C:\Users\adria\source\repos\UD05\UD05_Ex01\UD05_Ex01\bin\Debug\netcoreapp3.1\UD05_Ex01.dll
+C:\Users\adria\source\repos\UD05\UD05_Ex01\UD05_Ex01\bin\Debug\netcoreapp3.1\UD05_Ex01.pdb
+C:\Users\adria\source\repos\UD05\UD05_Ex01\UD05_Ex01\obj\Debug\netcoreapp3.1\UD05_Ex01.csprojAssemblyReference.cache
+C:\Users\adria\source\repos\UD05\UD05_Ex01\UD05_Ex01\obj\Debug\netcoreapp3.1\UD05_Ex01.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\UD05\UD05_Ex01\UD05_Ex01\obj\Debug\netcoreapp3.1\UD05_Ex01.AssemblyInfo.cs
+C:\Users\adria\source\repos\UD05\UD05_Ex01\UD05_Ex01\obj\Debug\netcoreapp3.1\UD05_Ex01.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\UD05\UD05_Ex01\UD05_Ex01\obj\Debug\netcoreapp3.1\UD05_Ex01.dll
+C:\Users\adria\source\repos\UD05\UD05_Ex01\UD05_Ex01\obj\Debug\netcoreapp3.1\UD05_Ex01.pdb
+C:\Users\adria\source\repos\UD05\UD05_Ex01\UD05_Ex01\obj\Debug\netcoreapp3.1\UD05_Ex01.genruntimeconfig.cache
