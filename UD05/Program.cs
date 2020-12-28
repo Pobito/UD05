@@ -13,7 +13,11 @@ namespace UD05
             // Ex05.DecimalBinario();
             // Ex06.NumCifras();
             // Ex07.ConvertirMonedas();
-            Ex08.ArrayEx08();
+            // Ex08.ArrayEx08();
+            // Ex09.ArrayEx09();
+            // Ex10.TablaMultiplicar();
+            // Ex11.ArraySuma();
+            Ex12.ArrayMedia();
         }
        
     }

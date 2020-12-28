@@ -9,7 +9,7 @@ namespace UD05
         
         public static void Factorial()
         {
-            int num, resu = 0;
+            int num;
 
             Console.WriteLine("Dime un numero");
             num = Int32.Parse(Console.ReadLine());
