@@ -17,7 +17,13 @@ namespace UD05
             // Ex09.ArrayEx09();
             // Ex10.TablaMultiplicar();
             // Ex11.ArraySuma();
-            Ex12.ArrayMedia();
+            // Ex12.ArrayMedia();
+            // Ex13.ArrayRandom();
+            // Ex14.ArrayRandomValor();
+            // Ex15.InvertirArray();
+            // Ex16.Capicua();
+            Ex17.DiezArrayTeclado();
+
         }
        
     }
